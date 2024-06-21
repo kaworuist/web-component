@@ -1,0 +1,1 @@
+It's a repo use to be familiar with web component concept
